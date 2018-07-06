@@ -1,0 +1,45 @@
+Some usefull wikipedia background:
+
+https://en.wikipedia.org/wiki/N-body_problem
+
+https://en.wikipedia.org/wiki/Two-body_problem
+
+https://en.wikipedia.org/wiki/Three-body_problem
+
+http://ads.harvard.edu/books/1989fcm..book/Chapter6r.pdf
+
+https://ac.els-cdn.com/0377042795000674/1-s2.0-0377042795000674-main.pdf?_tid=7f7ebe94-d496-11e7-a11f-00000aab0f01&acdnat=1511913030_af47e261fa003bbcb983ec65cf11ea5d
+
+
+Vector form
+https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation
+
+Example code
+https://www.wired.com/2016/06/way-solve-three-body-problem/
+
+http://ccar.colorado.edu/asen5050/projects/projects_2013/Brown_Harrison/Code/Brown_H.pdf
+
+http://www.uni-ulm.de/fkp/lehre/Simulation/Gander51ff.pdf
+
+https://people.sc.fsu.edu/~jburkardt/m_src/two_body_simulation/two_body_simulation.html
+
+https://nathantypanski.com/blog/2014-08-23-ode-solver-py.html
+
+http://homepages.math.uic.edu/~jan/mcs507f11/solvingodes.pdf
+
+https://llama.gs/wordpress/index.php/2016/07/20/bodies-gravity-and-simulation-part-i/
+
+https://smallsats.org/2013/01/16/two-body-problem-numerical-solutionsatellite-earth/
+
+http://www.math.tamu.edu/~mpilant/math614/twobody.pdf
+
+https://sites.google.com/a/ucsc.edu/krumholz/teaching-and-courses/ast119_w15/class-11
+
+Fancy animation
+http://guillaumecantin.pythonanywhere.com/animation/4/
+
+ode
+https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.integrate.ode.html
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html
+https://www.jyotirmoy.net/posts/2015-09-15-ec102-python5.html
+
